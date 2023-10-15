@@ -1,7 +1,6 @@
 Задача:
 1)Смоделировать шифратор, выполняющий преобразование текста на русском языке по формуле
 ![image](https://github.com/NellyLed/StatisticalHypotheses/assets/143941681/9aa4f3e0-ae2c-4ed9-a04c-3b4a2a4a64e0)
-
 где k - параметр шифрования. 
 2)Смоделировать дешифратор по формуле 
 ![image](https://github.com/NellyLed/StatisticalHypotheses/assets/143941681/4252f4d0-f366-48e4-a55b-17b8d12f1aca)
